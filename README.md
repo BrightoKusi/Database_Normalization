@@ -4,8 +4,9 @@ Normalization a database to reduce redundancy and data manipulation errors
 # Tools
 MS Excel
 
-# WOrk Done
+# Work Done
 A database containing a single table was submitted for normalization.
+
 Problems
 1. Columns with multiple row values (Non-atomic values)
 2. Partial dependancy
